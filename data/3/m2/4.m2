@@ -1,0 +1,66 @@
+S HELLO , WHAT IS YOUR FAVORITE MOVIE ?
+A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S I LOVE SEEING GHOST HUNTERS
+A 2 3|||R:VERB|||WATCHING|||3|||-NONE-|||0
+A 5 5|||M:PUNCT|||.|||1|||-NONE-|||0
+A 1 2|||R:VERB:TENSE|||LOVED|||3|||-NONE-|||1
+A 2 3|||R:NOUN|||WATCHING|||3|||-NONE-|||1
+A 5 5|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S I LOVE DC MOVIES
+A 4 4|||M:PUNCT|||.|||1|||-NONE-|||0
+A 4 4|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S MY FAVORITE MOVIE IS BY BATMAN
+A 6 6|||M:PUNCT|||.|||1|||-NONE-|||0
+A 4 5|||U:PREP||||||3|||-NONE-|||1
+A 6 6|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S IT IS AWESOME , VERY REALISTIC AND A PERFECT STORY
+A 10 10|||M:PUNCT|||.|||1|||-NONE-|||0
+A 10 10|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S ITS A DIFFERENT MOVIE , THERES NOT MANY LIKES
+A 0 1|||R:OTHER|||IT 'S|||2|||-NONE-|||0
+A 5 6|||R:MORPH|||THERE|||3|||-NONE-|||0
+A 6 6|||M:VERB|||ARE|||3|||-NONE-|||0
+A 8 9|||R:OTHER|||SIMILAR ONES .|||3|||-NONE-|||0
+A 0 1|||R:OTHER|||IT 'S|||2|||-NONE-|||1
+A 5 6|||R:OTHER|||THERE 'S|||2|||-NONE-|||1
+A 8 9|||R:MORPH|||LIKE|||3|||-NONE-|||1
+A 9 9|||M:OTHER|||IT .|||3|||-NONE-|||1
+
+S I LIKE A LOT OF SERIES TOO
+A 7 7|||M:PUNCT|||.|||1|||-NONE-|||0
+A 7 7|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S MY FAVORITE SERIES IS YOU
+A 5 5|||M:PUNCT|||.|||1|||-NONE-|||0
+A 5 5|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S ITS THE SERIES OF A PSYCHOPATH WHO LIKES TO HAVE GIRLFRIENDS
+A 0 1|||R:OTHER|||IT 'S|||2|||-NONE-|||0
+A 3 4|||R:PREP|||ABOUT|||3|||-NONE-|||0
+A 11 11|||M:PUNCT|||.|||1|||-NONE-|||0
+A 0 1|||R:OTHER|||IT 'S|||2|||-NONE-|||1
+A 1 2|||R:DET|||A|||3|||-NONE-|||1
+A 3 4|||R:PREP|||ABOUT|||3|||-NONE-|||1
+A 11 11|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S ITS FROM A DIFFERENT STORY AND THATS WHY I LIKE IT
+A 0 1|||R:OTHER|||IT 'S|||2|||-NONE-|||0
+A 6 7|||R:OTHER|||THAT 'S|||2|||-NONE-|||0
+A 11 11|||M:PUNCT|||.|||1|||-NONE-|||0
+A 0 1|||R:PRON|||IT|||3|||-NONE-|||1
+A 1 2|||R:OTHER|||'S|||3|||-NONE-|||1
+A 6 7|||R:OTHER|||THAT 'S|||2|||-NONE-|||1
+A 11 11|||M:PUNCT|||.|||1|||-NONE-|||1
+
+S THERE ARE NOT MANY SERIES OF PSYCHOPATHS , SO I LIKE IT TOO
+A 5 6|||R:PREP|||ABOUT|||3|||-NONE-|||0
+A 13 13|||M:PUNCT|||.|||1|||-NONE-|||0
+A 5 6|||R:PREP|||ABOUT|||3|||-NONE-|||1
+A 13 13|||M:PUNCT|||.|||1|||-NONE-|||1
+

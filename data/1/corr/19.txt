@@ -1,0 +1,11 @@
+Hi.
+Fine and you?
+Good.
+What is your name?
+How old are you?
+Where do you live?
+What do you do?
+I'm 25.
+Very good.
+Are you happy today?
+Do you have children?
